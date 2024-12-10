@@ -1,10 +1,10 @@
 id;link;name;parent_id;order;background_color;line_color;line;filled
 1;#;Limites físicos;root;0;;;20;true
 2;#;Perímetro de Natal;1;0;1, 1, 30, 70;201, 203, 207, 40;20;true
-3;#;Limite de Bairros;1;1;54, 162, 235, 60;201, 203, 207, 40;20;true
-4;#;Zonas Administrativas;1;2;255, 206, 86, 60;201, 203, 207, 40;20;true
 5;#;Localização;root;1;;;20;true
 6;#;Logradouros;5;1;255, 206, 192, 40;1, 1, 1, 120;10;false
+4;#;Zonas Administrativas;5;2;255, 206, 86, 60;201, 203, 207, 40;20;true
+3;#;Limite de Bairros;5;3;54, 162, 235, 60;201, 203, 207, 40;20;true
 7;#;Setores Censitários (IBGE 2010);root;2;;;20;true
 8;#;Setores Censitários;7;2;153, 102, 255, 40;201, 203, 207, 40;20;true
 9;#;Curva de Nível;root;3;;;20;true
