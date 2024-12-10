@@ -1,4 +1,4 @@
-"id";"link";"name";"parent_id";"order";"background_color";"line_color";"line";"filled"
+id;link;name;parent_id;order;background_color;line_color;line;filled
 1;#;Limites físicos;;1;;;20;true
 5;#;Localização;;2;;;20;true
 7;#;Setores Censitários (IBGE 2010);;3;;;20;true
