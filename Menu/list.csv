@@ -11,8 +11,8 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 11;#;Zona Sul;9;3;255, 159, 64, 40;0, 77, 175, 255;4;true
 13;#;Zona Oeste;9;4;255, 159, 64, 40;217, 31, 150, 255;4;true
 10;#;Zona Norte;9;5;255, 159, 64, 40;1, 75, 0, 255;4;true
-12;#;Zona Leste;9;6;255, 159, 64, 40;147, 31, 217, 255;4;true
-14;#;Fora dos Limites das Zonas Administrativas;9;7;255, 159, 64, 40;217, 31, 31, 255;4;true
+14;#;Fora dos Limites das Zonas Administrativas;9;6;255, 159, 64, 40;217, 31, 31, 255;4;true
+12;#;Zona Leste;9;7;255, 159, 64, 40;147, 31, 217, 255;4;true
 15;#;Cadastro Territorial;root;4;;;20;true
 16;#;Quadras;15;4;201, 203, 207, 40;5, 165, 25, 255;6;true
 19;#;Zona Sul;16;4;201, 203, 207, 40;120, 43, 207, 255;6;true
