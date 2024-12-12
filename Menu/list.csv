@@ -206,9 +206,3 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 205;#;Residencial Multifamiliar;151;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 206;#;Não residencial;151;2;255, 206, 86, 60;201, 203, 207, 40;20;true
 207;#;Misto;151;3;255, 206, 86, 60;201, 203, 207, 40;20;true
-208;#;teste;root;14;255, 206, 86, 60;201, 203, 207, 40;20;true
-209;#;teste;root;15;255, 206, 86, 60;201, 203, 207, 40;20;true
-210;#;teste;root;16;255, 206, 86, 60;201, 203, 207, 40;20;true
-211;#;teste;root;17;255, 206, 86, 60;201, 203, 207, 40;20;true
-212;#;teste;root;18;255, 206, 86, 60;201, 203, 207, 40;20;true
-213;#;teste;root;19;255, 206, 86, 60;201, 203, 207, 40;20;true
