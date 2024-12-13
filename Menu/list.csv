@@ -1,23 +1,24 @@
 id;link;name;parent_id;order;background_color;line_color;line;filled
 212;#;teste;root;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 211;#;Área de operação urbana;root;1;255, 206, 86, 60;201, 203, 207, 40;20;true
-210;#;AEIS;root;2;255, 206, 86, 60;201, 203, 207, 40;20;true
-208;#;teste;root;3;255, 206, 86, 60;201, 203, 207, 40;20;true
-1;#;Limites físicos;root;4;255, 206, 86, 60;201, 203, 207, 40;20;true
+216;#;teste;root;2;255, 206, 86, 60;201, 203, 207, 40;20;true
+210;#;AEIS;root;3;255, 206, 86, 60;201, 203, 207, 40;20;true
+208;#;teste;root;4;255, 206, 86, 60;201, 203, 207, 40;20;true
+1;#;Limites físicos;root;5;255, 206, 86, 60;201, 203, 207, 40;20;true
 2;#;Perímetro de Natal;1;0;1, 1, 30, 70;201, 203, 207, 40;20;true
-5;#;Localização;root;5;255, 206, 86, 60;201, 203, 207, 40;20;true
+5;#;Localização;root;6;255, 206, 86, 60;201, 203, 207, 40;20;true
 4;#;Zonas Administrativas;5;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 3;#;Limite de Bairros;5;1;54, 162, 235, 60;201, 203, 207, 40;20;true
-7;#;Setores Censitários (IBGE 2010);root;6;255, 206, 86, 60;201, 203, 207, 40;20;true
+7;#;Setores Censitários (IBGE 2010);root;7;255, 206, 86, 60;201, 203, 207, 40;20;true
 8;#;Setores Censitários;7;0;153, 102, 255, 40;201, 203, 207, 40;20;true
 6;#;Logradouros;7;1;255, 206, 192, 40;1, 1, 1, 120;10;false
-9;#;Curva de Nível;root;7;255, 206, 86, 60;201, 203, 207, 40;20;true
+9;#;Curva de Nível;root;8;255, 206, 86, 60;201, 203, 207, 40;20;true
 11;#;Zona Sul;9;0;255, 159, 64, 40;0, 77, 175, 255;4;true
 13;#;Zona Oeste;9;1;255, 159, 64, 40;217, 31, 150, 255;4;true
 10;#;Zona Norte;9;2;255, 159, 64, 40;1, 75, 0, 255;4;true
 14;#;Fora dos Limites das Zonas Administrativas;9;3;255, 159, 64, 40;217, 31, 31, 255;4;true
 12;#;Zona Leste;9;4;255, 159, 64, 40;147, 31, 217, 255;4;true
-15;#;Cadastro Territorial;root;8;255, 206, 86, 60;201, 203, 207, 40;20;true
+15;#;Cadastro Territorial;root;9;255, 206, 86, 60;201, 203, 207, 40;20;true
 16;#;Quadras;15;0;201, 203, 207, 40;5, 165, 25, 255;6;true
 19;#;Zona Sul;16;0;201, 203, 207, 40;120, 43, 207, 255;6;true
 21;#;Zona Oeste;16;1;201, 203, 207, 40;231, 116, 34, 255;6;true
@@ -28,7 +29,7 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 25;#;Zona Oeste;17;1;201, 203, 207, 40;231, 116, 34, 255;6;true
 22;#;Zona Norte;17;2;201, 203, 207, 40;5, 165, 25, 255;6;true
 24;#;Zona Leste;17;3;201, 203, 207, 40;24, 123, 207, 255;6;true
-26;#;Fundiário;root;9;255, 206, 86, 60;201, 203, 207, 40;20;true
+26;#;Fundiário;root;10;255, 206, 86, 60;201, 203, 207, 40;20;true
 29;#;Circunscrição Imobiliária;26;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 30;#;Regularização Fundiária;26;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 31;#;Área foreira da União;26;2;255, 206, 86, 60;201, 203, 207, 40;20;true
@@ -38,14 +39,14 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 35;#;Área Própria;26;6;255, 206, 86, 60;201, 203, 207, 40;20;true
 27;#;Conjuntos;26;7;201, 203, 207, 40;1, 1, 1, 255;3;true
 28;#;Loteamento;26;8;201, 203, 207, 40;24, 123, 207, 255;3;true
-36;#;Equipamentos Comunitários;root;10;255, 206, 86, 60;201, 203, 207, 40;20;true
+36;#;Equipamentos Comunitários;root;11;255, 206, 86, 60;201, 203, 207, 40;20;true
 37;#;Unidades de Saúde;36;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 38;#;Equipamentos Desportivos;36;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 39;#;Segurança Pública;36;2;255, 206, 86, 60;201, 203, 207, 40;20;true
 40;#;Escolas;36;3;255, 206, 86, 60;201, 203, 207, 40;20;true
 41;#;Escolas Públicas;40;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 42;#;Escolas Particulares;40;1;255, 206, 86, 60;201, 203, 207, 40;20;true
-43;#;Infraestrutura;root;11;255, 206, 86, 60;201, 203, 207, 40;20;true
+43;#;Infraestrutura;root;12;255, 206, 86, 60;201, 203, 207, 40;20;true
 44;#;Mobilidade;43;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 52;#;Parada de ônibus;44;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 53;#;Estações ferroviárias;44;1;255, 206, 86, 60;201, 203, 207, 40;20;true
@@ -76,14 +77,14 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 72;#;Tubulação de gás;49;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 50;#;Comunicação;43;6;255, 206, 86, 60;201, 203, 207, 40;20;true
 73;#;Gabarito da Anatel;50;0;255, 206, 86, 60;201, 203, 207, 40;20;true
-74;#;Serviços;root;12;255, 206, 86, 60;201, 203, 207, 40;20;true
+74;#;Serviços;root;13;255, 206, 86, 60;201, 203, 207, 40;20;true
 75;#;Mercado público;74;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 76;#;Cemitério;74;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 77;#;Feiras;74;2;255, 206, 86, 60;201, 203, 207, 40;20;true
-78;#;Mobiliário urbano;root;13;255, 206, 86, 60;201, 203, 207, 40;20;true
+78;#;Mobiliário urbano;root;14;255, 206, 86, 60;201, 203, 207, 40;20;true
 79;#;Mupins;78;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 80;#;Relógios;78;1;255, 206, 86, 60;201, 203, 207, 40;20;true
-134;#;Dados urbanísticos;root;14;255, 206, 86, 60;201, 203, 207, 40;20;true
+134;#;Dados urbanísticos;root;15;255, 206, 86, 60;201, 203, 207, 40;20;true
 135;#;Licenciamento;134;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 136;#;Alvará;135;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 138;#;2017;136;0;255, 206, 86, 60;201, 203, 207, 40;20;true
@@ -157,11 +158,11 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 205;#;Residencial Multifamiliar;151;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 206;#;Não residencial;151;2;255, 206, 86, 60;201, 203, 207, 40;20;true
 207;#;Misto;151;3;255, 206, 86, 60;201, 203, 207, 40;20;true
-130;#;Instrumentos de política urbana;root;15;255, 206, 86, 60;201, 203, 207, 40;20;true
+130;#;Instrumentos de política urbana;root;16;255, 206, 86, 60;201, 203, 207, 40;20;true
 131;#;Transferência de potencial construtivo (TPC);130;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 132;#;Cedente;131;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 133;#;Receptor;131;1;255, 206, 86, 60;201, 203, 207, 40;20;true
-83;#;Zoneamento em vigor;root;16;255, 206, 86, 60;201, 203, 207, 40;20;true
+83;#;Zoneamento em vigor;root;17;255, 206, 86, 60;201, 203, 207, 40;20;true
 84;#;Macrozoneamento;83;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 85;#;CA da quadra por bacia;83;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 86;#;CA Máximo por bairro;83;2;255, 206, 86, 60;201, 203, 207, 40;20;true
@@ -208,10 +209,9 @@ id;link;name;parent_id;order;background_color;line_color;line;filled
 127;#;Zona de Proteção Ambiental 08;83;43;255, 206, 86, 60;201, 203, 207, 40;20;true
 128;#;Zona de Proteção Ambiental 09;83;44;255, 206, 86, 60;201, 203, 207, 40;20;true
 129;#;Zona de Proteção Ambiental 10;83;45;255, 206, 86, 60;201, 203, 207, 40;20;true
-209;#;testeee;root;17;255, 206, 86, 60;201, 203, 207, 40;20;true
-81;#;Áreas de influência de vôo;root;18;255, 206, 86, 60;201, 203, 207, 40;20;true
+209;#;testeee;root;18;255, 206, 86, 60;201, 203, 207, 40;20;true
+81;#;Áreas de influência de vôo;root;19;255, 206, 86, 60;201, 203, 207, 40;20;true
 82;#;Aeroporto;81;0;255, 206, 86, 60;201, 203, 207, 40;20;true
-213;#;teste;root;19;255, 206, 86, 60;201, 203, 207, 40;20;true
-214;#;teste;root;20;255, 206, 86, 60;201, 203, 207, 40;20;true
-215;#;teste;root;21;255, 206, 86, 60;201, 203, 207, 40;20;true
-216;#;teste;root;22;255, 206, 86, 60;201, 203, 207, 40;20;true
+213;#;teste;root;20;255, 206, 86, 60;201, 203, 207, 40;20;true
+214;#;teste;root;21;255, 206, 86, 60;201, 203, 207, 40;20;true
+215;#;teste;root;22;255, 206, 86, 60;201, 203, 207, 40;20;true
