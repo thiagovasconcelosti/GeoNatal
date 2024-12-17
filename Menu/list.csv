@@ -1,4 +1,4 @@
-id;link;name;parent_id;order;background_color;line_color;line;filled
+id;link;name;parent_id;order;background_color;line_color;line;display
 212;#;teste;root;0;255, 206, 86, 60;201, 203, 207, 40;20;true
 211;#;Área de operação urbana;root;1;255, 206, 86, 60;201, 203, 207, 40;20;true
 216;#;teste;root;2;255, 206, 86, 60;201, 203, 207, 40;20;true
